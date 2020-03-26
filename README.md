@@ -33,3 +33,7 @@ Smart farm ประดิษฐ์เป็นโมเดลขึ้นมา
 - BUZZER 
 - SENSOR
 - พัดลม
+
+## Image
+![image](https://raw.githubusercontent.com/Noeypeerada/MDT112-Project/master/images/icon48.png)
+![image](https://raw.githubusercontent.com/Noeypeerada/MDT112-Project/master/images/Flowchart.PNG)
